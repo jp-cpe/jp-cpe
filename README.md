@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-cpe&theme=calm&layout=donut)](https://github.com/jp-cpe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-cpe&theme=calm&layout=donut)](https://github.com/jp-cpe/github-readme-stats](https://github-readme-stats-two-delta-57.vercel.app/)
 
 [![JP-CPE's GitHub stats](https://github-readme-stats.vercel.app/api?username=jp-cpe&theme=calm)](https://github.com/jp-cpe/github-readme-stats)
 
