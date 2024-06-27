@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-cpe&theme=calm&layout=donut)](https://github.com/jp-cpe/github-readme-stats(https://github-readme-stats-two-delta-57.vercel.app/)]
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 [![JP-CPE's GitHub stats](https://github-readme-stats.vercel.app/api?username=jp-cpe&theme=calm)](https://github.com/jp-cpe/github-readme-stats)
 
 <!--
