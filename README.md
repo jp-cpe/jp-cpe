@@ -2,9 +2,9 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-cpe&theme=calm&layout=donut)](https://github.com/jp-cpe/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-cpe&show_icons=true&theme=calm&layout=donut)](https://github.com/jp-cpe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-cpe&theme=calm&layout=donut)](https://github.com/jp-cpe/github-readme-stats)
 
-[![JP-CPE's GitHub stats](https://github-readme-stats.vercel.app/api?username=jp-cpe&theme=calm)](https://github.com/jp-cpe/github-readme-stats)
+[![JP-CPE's GitHub stats](https://github-readme-stats.vercel.app/api?username=jp-cpe&theme=calm&show_icons=true)](https://github.com/jp-cpe/github-readme-stats)
 
 <!--
 **jp-cpe/jp-cpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
