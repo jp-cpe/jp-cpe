@@ -6,10 +6,10 @@
 -->
 
 <a href="https://github.com/jp-cpe/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-two-delta-57.vercel.app/api/top-langs/?username=jp-cpe&theme=calm&layout=donut&langs_count=20" />
+  <img height=275 align="center" src="https://github-readme-stats-two-delta-57.vercel.app/api/top-langs/?username=jp-cpe&theme=calm&layout=donut&langs_count=20" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=275 align="center" src="https://github-readme-stats-two-delta-57.vercel.app/api?username=jp-cpe&theme=calm&show_icons=true" />
 </a>
 
 
