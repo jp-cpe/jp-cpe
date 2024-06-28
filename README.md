@@ -12,6 +12,6 @@
 
 <div align="center">
 <details>
-<summary>.....</summary>
+<summary>........</summary>
 </details>
 </div>
