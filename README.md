@@ -1,7 +1,7 @@
 <img src=IMG_7279.JPG />
 
 <div align="center">
-<p><i>"Inspiration exists, but it must find you working."</i>i></p>
+<p><i>"Inspiration exists, but it must find you working."</i></p>
 </div>
 
 <div align="center">
