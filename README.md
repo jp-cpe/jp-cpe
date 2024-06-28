@@ -4,14 +4,12 @@
 
 [![JP-CPE's GitHub stats](https://github-readme-stats-two-delta-57.vercel.app/api?username=jp-cpe&theme=calm&show_icons=true)](https://github.com/jp-cpe/github-readme-stats) 
 -->
-
+<a href="https://github.com/jp-cpe/github-readme-stats">
+  <img height=275 align="center" src="https://github-readme-stats-two-delta-57.vercel.app/api?username=jp-cpe&theme=calm&show_icons=true" />
+</a>
 <a href="https://github.com/jp-cpe/github-readme-stats">
   <img height=275 align="center" src="https://github-readme-stats-two-delta-57.vercel.app/api/top-langs/?username=jp-cpe&theme=calm&layout=donut&langs_count=20" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=275 align="center" src="https://github-readme-stats-two-delta-57.vercel.app/api?username=jp-cpe&theme=calm&show_icons=true" />
-</a>
-
 
 <!--
 **jp-cpe/jp-cpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
