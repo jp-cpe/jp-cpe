@@ -7,3 +7,9 @@
 <div align="center">
 <p>Pablo Picasso</p>
 </div>
+
+<div align="center">
+<details>
+<summary>........</summary>
+</details>
+</div>
