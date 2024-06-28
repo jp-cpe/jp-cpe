@@ -5,10 +5,10 @@
 [![JP-CPE's GitHub stats](https://github-readme-stats-two-delta-57.vercel.app/api?username=jp-cpe&theme=calm&show_icons=true)](https://github.com/jp-cpe/github-readme-stats) 
 -->
 <a href="https://github.com/jp-cpe/github-readme-stats">
-  <img height=250 align="center" src="https://github-readme-stats-two-delta-57.vercel.app/api?username=jp-cpe&theme=calm&show_icons=true&rank_icon=github&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats-two-delta-57.vercel.app/api?username=jp-cpe&theme=calm&show_icons=true&rank_icon=github&layout=compact" />
 </a>
 <a href="https://github.com/jp-cpe/github-readme-stats">
-  <img height=250 align="center" src="https://github-readme-stats-two-delta-57.vercel.app/api/top-langs/?username=jp-cpe&theme=calm&layout=donut&langs_count=20" />
+  <img height=200 align="center" src="https://github-readme-stats-two-delta-57.vercel.app/api/top-langs/?username=jp-cpe&theme=calm&layout=donut&langs_count=20" />
 </a>
 
 <!--
