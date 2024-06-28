@@ -10,7 +10,7 @@
 
 #
 
-<div align="left">
+<div align="center">
 <details>
 <summary>.....</summary>
 </details>
