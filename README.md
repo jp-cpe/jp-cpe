@@ -8,8 +8,10 @@
 <p>Pablo Picasso</p>
 </div>
 
-<div align="center">
+#
+
+<div align="left">
 <details>
-<summary>........</summary>
+<summary>.....</summary>
 </details>
 </div>
