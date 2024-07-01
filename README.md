@@ -9,9 +9,22 @@
 </div>
 
 #
-
+<!-- START MORE INFO SECTION -->
 <div align="center">
 <details>
 <summary>........</summary>
-</details>
+
+</br>
+
+<p>Hi, I am JP, a Client Platform Engineer with hands-on experience leading the design, development, and deployment of stable, secure, and scalable IT infrastructure in globally-distributed enterprise environments.</p>
+
+#
+<div style="display: inline-block;">
+      <img src="https://img.shields.io/badge/LinkedIn-071A2C?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/YouTube-071A2C?style=for-the-badge&logo=youtube&logoColor=white" />
+      <img src="https://img.shields.io/badge/Website-071A2C?style=for-the-badge&logo=Safari&logoColor=white" />
 </div>
+
+</div>
+</details>
+<!-- END MORE INFO SECTION -->
