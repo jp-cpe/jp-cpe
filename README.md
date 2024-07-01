@@ -18,7 +18,7 @@
 <summary>........</summary>
 
 <!-- START SUMMARY -->
-<h2>About Me</h2>
+
 </br>
 <p>Hi, I am JP, a Client Platform Engineer with hands-on experience leading the design, development, and deployment of stable, secure, and scalable IT infrastructure in globally-distributed enterprise environments.</p>
 
