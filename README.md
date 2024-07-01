@@ -54,9 +54,15 @@
 #
 
 <div style="display: inline-block;">
-      <img src="https://img.shields.io/badge/LinkedIn-071A2C?style=for-the-badge&logo=linkedin&logoColor=white" />
-      <img src="https://img.shields.io/badge/YouTube-071A2C?style=for-the-badge&logo=youtube&logoColor=white" />
-      <img src="https://img.shields.io/badge/Website-071A2C?style=for-the-badge&logo=Safari&logoColor=white" />
+  <a href="https://www.linkedin.com/in/jp-cpe" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-071A2C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@jp-cpe" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-071A2C?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.jp-cpe.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-071A2C?style=for-the-badge&logo=Safari&logoColor=white" alt="Website" />
+  </a>
 </div>
 <!-- END SOCIAL FOOTER -->
 
