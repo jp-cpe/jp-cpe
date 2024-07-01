@@ -27,6 +27,10 @@
 
 <!-- START ADDITIONAL DROPDOWNS SECTION -->
 <div align="center">
+<details>
+<summary>More Info</summary>
+
+#
 
 <!-- START GITHUB STATS SECTION -->
 <details>
@@ -49,7 +53,7 @@
   <img  align="center" src="https://github-readme-stats-two-delta-57.vercel.app/api/top-langs/?username=jp-cpe&theme=calm&layout=donut&langs_count=20&custom_title=Languages" />
 </a>
 </div>
-
+</details>
 </details>
 <!-- END ADDITIONAL DROPDOWNS SECTION -->
 
