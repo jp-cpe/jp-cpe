@@ -54,7 +54,7 @@
 #
 
 <div style="display: inline-block;">
-  <a href="https://www.linkedin.com/in/jp-cpe" target="_blank">
+  <a href="https://www.linkedin.com/in/jp-cpe" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-071A2C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@jp-cpe" target="_blank">
